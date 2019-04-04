@@ -6,3 +6,6 @@ required tools and libraries to run the script:
  (remaining libraries are declared but not used as of now .so they can be removed from the script before executing the same)
  
  function read_split_the_file return the traing data and testdata which can be used to implement other algorithms.
+ 
+ ex2.py script -implementing the algorithms using scikit learn
+ ex3.py script -desicion algoriithm is implemented
